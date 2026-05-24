@@ -1,5 +1,6 @@
 ## Hi 👋 I'm Muhammad Faraz Khan
 
+![Profile views](https://komarev.com/ghpvc/?username=MuhammadFaraz-SoftwareEngineer&color=blue)
 Software Engineering Student  
 Passionate Developer in Java, Python, MERN Stack & Flutter  
 
