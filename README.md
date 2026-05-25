@@ -4,6 +4,11 @@
 
 Software Engineering Student  
 Passionate Developer in Java, Python, MERN Stack & Flutter  
+Note: The mentioned MERN and Flutter projects in cv are currently in development as part of ongoing semester coursework.
+MERN Stack Project (In Progress)
+Currently developing a full-stack web application using MongoDB, Express, React, and Node.js for academic project submission.
+Flutter Mobile App (In Progress)
+Currently building a mobile application using Flutter and Dart for academic project submission.
 
 ---
 
